@@ -8,6 +8,7 @@ function mostrar()
 	
 	alert("Su nombre es " + nombre);
 	
+
 }
 
 
