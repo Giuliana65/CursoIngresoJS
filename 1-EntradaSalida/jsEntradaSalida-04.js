@@ -10,5 +10,6 @@ function mostrar()
 
 	document.getElementById('elNombre').value = nombre;
 
+	
 }
 
