@@ -10,9 +10,8 @@ function mostrar()
 
 	document.getElementById("txtIdnombre").value = nombre;
 
-	
 
 
-	
+
 }
 

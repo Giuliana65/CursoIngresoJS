@@ -7,7 +7,8 @@ function mostrar()
 	nombre = prompt ("Ingrese nombre");
 	
 	alert("Su nombre es " + nombre);
-	
+
+
 }
 
 
