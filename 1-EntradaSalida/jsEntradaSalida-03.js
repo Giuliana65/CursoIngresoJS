@@ -6,7 +6,7 @@ function mostrar()
 {
  var nombre ;
 
- nombre = document.getElementById("nombre").value;
+ nombre = document.getElementById("txtIdNombre").value;
 
  alert(nombre);
 
